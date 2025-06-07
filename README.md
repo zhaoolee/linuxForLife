@@ -19,10 +19,17 @@ neofetch
 
 ### 终极的shell：安装zsh, oh-my-zsh
 
+https://ohmyz.sh/
 
+![image](https://github.com/user-attachments/assets/b46507e0-e952-47d7-9752-a6536671ecc5)
+
+打印用户名显示世界时间：https://github.com/zhaoolee/WelcomeMrStark
 
 
 ### 仙之人兮列如麻之Vim仙人：更好的Neovim, LazyVim
+
+![image](https://github.com/user-attachments/assets/a445da28-e1ea-4ee8-8233-6e52d6f3bbf0)
+
 
 neovim: https://github.com/neovim/neovim
 
