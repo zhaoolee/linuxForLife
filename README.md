@@ -9,7 +9,18 @@ Linux 很适合祖传电脑使用，它让一台 10 年前的笔记本依然跑�
 
 ### 优雅展示你的硬件：Neofetch
 
+```
+sudo apt install neofetch -y
+neofetch
+```
+
+![image](https://github.com/user-attachments/assets/650b5437-5caf-4774-b8e8-21e4a66ad484)
+
+
 ### 终极的shell：安装zsh, oh-my-zsh
+
+
+
 
 ### 仙之人兮列如麻之Vim仙人：更好的Neovim, LazyVim
 
