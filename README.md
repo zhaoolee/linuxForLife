@@ -79,11 +79,17 @@ https://www.zerotier.com/download/
 
 ## 2. 🤩 你可以在 KDE 中自定义一切：KED桌面配置
 
-### 配置窗口果冻效果
+### 配置窗口果冻效果，配置窗口魔法吸取
 
-### 配置窗口魔法吸取
+![果冻窗口吸取效果](https://github.com/user-attachments/assets/04b2ea1e-4e7b-4c79-87d7-2258f1a02a09)
+
+
+![2025-06-07 19 13 20](https://github.com/user-attachments/assets/47b26790-a12e-4107-9f6e-f9fc54f8f47a)
+
 
 ### 配置窗口控制按钮显示在左上角
+
+
 
 ## 1. 🐣 先天一炁：系统安装
 
@@ -99,6 +105,9 @@ sudo apt install kubuntu-desktop -y
 
 安装中如果提示选择默认的 Display Manager（显示管理器）：gdm3 是 GNOME 的登录界面（Ubuntu 默认），sddm 是 KDE 的登录界面（推荐与 KDE 匹配），我们选择 sddm 来更贴合 KDE 风格。
 ![选择sddm](https://github.com/user-attachments/assets/88a47ffe-67f0-4c98-9964-dc5947c2070c)
+
+![](https://github.com/user-attachments/assets/ee64f97a-2919-4597-91cf-15de64101ba2)
+
 
 
 
