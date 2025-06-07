@@ -13,6 +13,10 @@ Linux 很适合祖传电脑使用，它让一台 10 年前的笔记本依然跑�
 
 ### 仙之人兮列如麻之Vim仙人：更好的Neovim, LazyVim
 
+neovim: https://github.com/neovim/neovim
+
+LazyVim: https://github.com/LazyVim/LazyVim
+
 
 ## 6. 🌅 灵气滋养：开源服务
 
@@ -27,6 +31,8 @@ Linux 很适合祖传电脑使用，它让一台 10 年前的笔记本依然跑�
 
 
 ### 大道至简的远程桌面访问方案：VNC服务
+
+### 跨系统共享文件服务：SMB
 
 
 ## 5. 🎣 延年益寿之法：写点儿程序
@@ -49,12 +55,18 @@ https://github.com/mihomo-party-org/mihomo-party
 
 https://www.zerotier.com/download/
 
+### ssh终端：FinalShell
+
 ## 4. 生产力应用：办公修图码字
 
 
-### 
+### RawTherapee(平替Lightroom)
 
-### Typora
+### Markdown 码字 Typora
+
+### GIT图录制：peek
+
+https://github.com/phw/peek
 
 ### WPS
 
